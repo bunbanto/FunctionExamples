@@ -89,7 +89,12 @@ button {
   flex-direction: column;
   gap: 10px;
 }
-
+.title-div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
 /*--------sale----------*/
 .sale-title {
   display: inline-block;
